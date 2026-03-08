@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+
+agno
+chromadb
+
+groq
+
+pydantic
+python-dotenv
+sentence-transformers
+
+typing-extensions
