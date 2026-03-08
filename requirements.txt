@@ -9,6 +9,6 @@ groq
 pydantic
 python-dotenv
 sentence-transformers
-"pymongo[srv]"
+pymongo
 
 typing-extensions
